@@ -1,0 +1,21 @@
+.main { 
+    display: flex;
+}
+.products {
+    width: 70%;
+    margin-left: 50px;
+    margin-right: 10px;
+    border-right: 1px solid lightgray;
+
+}
+
+.add-to-cart {
+    background-color: goldenrod;
+    border : 1px solid grey;
+    height: 30px;
+    width: 150px;
+    border-radius: 5px;
+    margin-bottom:20px;
+    cursor: pointer;
+    text-align: center!important;
+}
